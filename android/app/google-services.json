@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072016233070",
+    "project_id": "marte-training",
+    "storage_bucket": "marte-training.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072016233070:android:7aa3db01e94a580da78c7f",
+        "android_client_info": {
+          "package_name": "com.example.marte_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdrVAkRF7t-xKIsyQMICUpr1jHTY9gtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
